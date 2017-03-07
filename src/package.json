@@ -1,0 +1,27 @@
+{
+  "name": "alexa-skill-404-md-nodejs",
+  "version": "1.0.0",
+  "description": "Alexa skill to declare 404.md opened",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/404md/alexa-skill.git"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "404md"
+  ],
+  "author": "www.404.md",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/404md/alexa-skill/issues"
+  },
+  "homepage": "https://www.404.md",
+  "dependencies": {
+    "alexa-sdk": "^1.0.0"
+  }
+}
