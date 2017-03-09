@@ -1,1 +1,5 @@
+IntentName four oh four
 IntentName open four oh four
+IntentName open four zero four
+IntentName open four hundred four
+IntentName open four hundred and four
