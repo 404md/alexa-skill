@@ -15,6 +15,6 @@ var handlers = {
         this.emit('Open404md')
     },
     'Open404md': function () {
-        this.emit(':tell', 'I declare <break time="1ms"/> <say-as interpret-as="characters">404</say-as> Not Found <break time="1ms"/> officially opened!');
+        this.emit(':tell', 'I declare <break time="1ms"/> <say-as interpret-as="characters">404</say-as> Not Found <phoneme alphabet="ipa" ph="mɔlˈdoʊ.və">Moldova</phoneme> <break time="1ms"/> officially opened!');
     }
 };
